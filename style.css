@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: black;
+  color:aliceblue;
+}
+
+.container {
+    display: flex;
+}
+.phongchu{
+    color:#ff4f81
+}
+.chucnang{
+    border-radius: 20px;
+    background-color: #ff4f81;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+    height: 40px;
+}
+.phanchinh{
+    height: 85%;
+}
+
+.phatnhac{
+    color: white;
+    text-align: center;
+    height: 10%;
+}
+.tranmanhinh{
+    width:100%;
+    height: 100vh;
+}
+.home{
+    width:60%;
+    background-color: #0e0e18;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.dangphat{
+    width:18%;
+    background-color: #0e0e18;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.sidebar {
+    background-color: #0e0e18;
+    width: 20%;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.anhphatnhac{
+    border-radius: 10px;
+    height : 70px;
+    margin-right: 13px;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+.tenbaihat{
+    color:white;
+    font-size: 15px;
+    margin-top: 13px;
+    text-align: left;
+    font-weight: bold;
+    width: auto;
+}
+.tencasi{
+    color:white;
+    font-size:13px;
+    text-align: left;
+}
+.tenbaihatvanhac{
+    width:auto;
+}
+.thanhcongcu{
+    height: 5%;
+}
+.dong1sidebar{
+    margin: 15px;
+    font-weight: bold;
+}
+.thuviensidebar{
+    width:30%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.taoplaylist{
+    width: 80%;
+    text-align: right;
+}
+.taocon{
+    background-color: #2c2728;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+.dangphat1{
+    margin: 10px;
+}
+.dangphat2{
+    margin-left: 10px;
+    width:95%;
+    height:auto;
+    border-radius: 20px;
+}
+.phiatruoc{
+    margin: 13px;
+    width:20px;
+}
+.phiasau{
+    margin: 13px;
+    margin-left: 0;
+    width:20px;
+}
+.timkiem{
+    text-align: center;
+    width: 80%;
+}
+.timkiem1{
+    background-color: #2c2728;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 4px;
+}
+.zoom{
+    margin: 15px;
+    margin-left: 20px;
+}
+.timkiemicon{
+    margin-top: 10px;
+}
+.timkiem2{
+    width:40%;
+    background-color: #2c2728;
+    margin-top:4px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.kinhlup{
+    margin-left: 13px;
+}
+.chutimkiem{
+    margin-top: 8px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 100;
+}
+.add1{
+    margin-left: 20px;
+}
+.cangiua{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.candoc{
+    display: flex;
+    align-items:center;
+}
+.thng2{
+    width:80%;
+}
+.marquee-container {
+  width: 290px;
+  overflow: hidden;
+  position: relative;
+  height:30px;
+}
+
+.marquee-text {
+  position: absolute;
+  white-space: nowrap;
+  animation: scrollText 15s linear infinite;
+  left: 0;
+  animation-delay: 3s;
+}
+
+@keyframes scrollText {
+  0% {
+    left: 100%;
+  }
+  100% {
+    left: -100%;
+  }
+}
+.add2{
+    margin-left: 10px;
+}
+.input-like {
+  width: 70%;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+  text-align: left;
+  background-color:transparent;
+  margin-left: 10px;
+}
