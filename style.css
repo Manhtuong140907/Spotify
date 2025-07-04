@@ -239,3 +239,183 @@ body {
 .timkiem4{
     border-left: 1px solid white;
 }
+.baymuoi{
+    width:70%;
+}
+.bamuoi{
+    width: 30%;
+}
+.thongtin{
+    margin: 10px;
+    background-color: #1e1e22;
+    border-radius: 10px;
+    height:22%;
+}
+.ntg{
+    font-size: 13px;
+    text-align: left;
+    color: white;
+    margin: 10px;
+    font-weight: bold;
+}
+.htc{
+    font-size: 12px;
+    color: rgb(102, 95, 95);
+    text-align: right;
+    margin: 10px;
+}
+.nghesi1{
+    margin-left: 10px;
+}
+.tennghesi{
+    font-size: 15px;
+}
+.nghesi2{
+    margin-left: 10px;
+    margin-top: 6px;
+}
+.vaitro{
+    font-size: 13px;
+    color: rgb(102, 95, 95);
+}
+.theodoi{
+    text-align: center;
+    border: 1px solid rgb(102, 95, 95);
+    border-radius: 17px;
+    margin-right: 10px;
+    font-size: 15px;
+    padding: 4px;
+}
+.ld{
+    margin: 10px;
+    background-color: #1e1e22;
+    border-radius: 10px;
+    height: 21%;
+}
+.luudien{
+    margin-top:10px;
+    text-align:left;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+}
+.cochu{
+    font-size: 12px;
+}
+.date{
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    margin: 10px;
+    padding: 5px;
+}
+.thang{
+    font-size: 12px;
+    color: white;
+}
+.thangso{
+    font-size: 10px;
+    color: white;
+}
+.ngay{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+.luudien1{
+    height: 60px;
+    margin-top: 5px;
+}
+.nut{
+    margin-left: 10px;
+    width: 18%;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(102, 95, 95);
+    font-size: 14px;
+}
+.tksidebar{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.ganday{
+    margin-top: 10px;
+    margin-left: 240px;
+}
+.baihatdathich{
+    background-color: rgb(76, 86, 177);
+    height: 60px;
+    border-radius: 10px;
+    width: 60px;
+    margin: 10px;
+}
+.c5px{
+    margin-left: 5px;
+}
+.indam{
+    font-weight: bold;
+    color: white;
+}
+.baihatdaluu{
+    background-color: rgb(59, 134, 116);
+    height: 60px;
+    border-radius: 10px;
+    width: 60px;
+    margin: 10px;
+}
+.anh{
+    height: 60px;
+    border-radius: 10px;
+    width: 60px;
+}
+.home1{
+    margin:10px;
+    background-color: #28282c;
+    border-radius: 10px;
+    height:280px;
+}
+.anhhome1{
+    width:260px;
+    border-radius: 5px;
+    margin: 10px;
+    margin-bottom: 5px;
+}
+.chuto{
+    font-size: 40px;
+    font-weight: bold;
+}
+.phat{
+    text-align: center;
+    border-radius: 25px;
+    background-color: #0a5f0a;
+    padding: 10px;
+    width: 80px;
+    margin-top: 10px;
+}
+.theodoi2{
+    text-align: center;
+    border-radius: 25px;
+    background-color: #000000;
+    padding: 10px;
+    width: 90px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 1px solid white;
+}
+.bacham{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.dtt{
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: black;
+    padding: 3px;
+    border-radius: 5px;
+    width:100px;
+    text-align: center;
+}
+.daivl{
+    width: 700px;
+}
